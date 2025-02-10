@@ -56,7 +56,7 @@ export default function Home() {
         {/* Description */}
         <p className="text-lg text-gray-400 mb-8">
           RoboCollective.ai is launching soon to bring cutting-edge robotics to
-          the world. Whether you want to partner with us or own your very own
+          the world. Whether you want to partner with us or own your own robot
           dealership franchise, the future of robotics awaits.
         </p>
         {/* Call-to-Action */}
