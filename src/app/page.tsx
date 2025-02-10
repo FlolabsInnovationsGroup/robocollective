@@ -9,7 +9,7 @@ export default function Home() {
       <div className="absolute inset-0 flex justify-center items-center animate-float">
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          viewBox="-50 -100 300 600" /* Ensures balanced space */
+          viewBox="-50 -100 300 600" 
           className="w-[40%] h-auto opacity-5 robot-silhouette md:w-[50%] sm:w-[70%]"
           fill="none"
         >
